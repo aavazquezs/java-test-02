@@ -1,0 +1,11 @@
+# Maven target directory
+/target/
+
+# STS files
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
